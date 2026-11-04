@@ -1,0 +1,6 @@
+{
+  "name": "Neon Serpent: Arcade Snake",
+  "description": "A modern, dark-themed arcade Snake game with glowing neon visual effects, fluid controls, audio synthesizer, and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
